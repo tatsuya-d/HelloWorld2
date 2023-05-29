@@ -12,5 +12,4 @@ public class HelloWorldController {
         return LocalDateTime.now();
 
     }
-
 }
